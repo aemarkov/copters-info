@@ -48,14 +48,14 @@
  - Приемние CrossFire
        [Buy](https://www.team-blacksheep.com/products/prod:crossfire_mrx)
 
-# Компоненты
+## Компоненты
 
-## Мага-обзор от AnikFPV для 5 дюймов
+### Мага-обзор от AnikFPV для 5 дюймов
 [Обзор](https://youtu.be/LKeXYbipz_g)
 
 
-### Рамы
-#### Дорогие
+#### Рамы
+##### Дорогие
 - Armattan Chamelion https://goo.gl/7YkXGD
 - Armattan Chamelin TI https://goo.gl/hKsbW9
 - Armattan Rooster https://goo.gl/c3j7bg
@@ -69,7 +69,7 @@
   Классные рамы, как и Revolver, но в два раза дороже, но
   по характеристикам не сильно лучше
 
-### Средние
+#### Средние
 - Revolver https://goo.gl/aqL2kf
   Также обращают внимание на резонансные характеристики
 - Рамы GepRC https://goo.gl/
@@ -81,7 +81,7 @@
   Сильно распиарились полгода-год назад, сейчас
   поубавилось, появилось много альтернатив
 
-### Бюджетные
+#### Бюджетные
 - Puda https://goo.gl/U3C1Gr
   Хороший экземпляр дешевых рам, но достаточно качественных,
   чтобы на них летать. Не самый крутой карбон, не самое крутое, но
@@ -110,8 +110,8 @@
   заранее нужно подумать, как располагать электронику. Мелкая.
 - VX210 https://goo.gl/k5CJpy
 
-## Моторы
-### Дорогие
+### Моторы
+#### Дорогие
 T-Motor F40 PRO https://goo.gl/43pXdH
 Новый. Дорого. Стабильное качество, подшипники
 неплохие, высокая мощность, магниты, обмотка, все 
@@ -133,7 +133,7 @@ Hypetrain https://goo.gl/4Tmpb3
 
 MR.Steele V2 https://goo.gl/CxuyNY
 
-### Средние
+#### Средние
 Datura https://goo.gl/khM429
 Тоже безумно плавные 
 
@@ -170,7 +170,7 @@ Aokfly официальный магазин https://goo.gl/mWY8wG
 которые очень классные, эффективность, подшипнки нормальные,
 прочные.
 
-### Бюджетные
+#### Бюджетные
 
 DYS Samguk https://goo.gl/mHUim4
 Новый. Шикарное качество. Да, мнуться, не самый клевый
@@ -191,8 +191,8 @@ RCX LS2207 https://goo.gl/drjNQq и другие RCX
 Cobra Motors
 хорошее качество
 
-## Регуляторы
-### 4в1
+### Регуляторы
+#### 4в1
 Hobbywing https://goo.gl/EvPTzX
 Стали очень популярны. Дорогие регуляторы.
 Очень качественные. 
@@ -208,7 +208,7 @@ Airbot Typhoon32 V2 https://goo.gl/nUDpfH
 Airbot ORI32 https://goo.gl/XDgFXD
 Racerstar Tattoo https://goo.gl/eZPcrq
 
-### Отдельные
+#### Отдельные
 Airbot Wraith32 https://goo.gl/SNy1RS
 Wraith32 V2 https://goo.gl/7QN3Gu
 Betaflight32 ESC https://goo.gl/8uH6kx
@@ -246,31 +246,26 @@ Wraith32 Metal V2 https://goo.gl/7VXy31
 - Шлем можно использовать как монитор. Лол.
 
 #### Шлемы
- - Eachine VR006
- - 
-   Нет диверсити, нет DVR
- - Eachine VR009, 60 долларов, все хвалят. Алсо HeadPlay HD и Quanum Genesis.
+ - Topsky Prime 1S
+ - Eachine VR006, 2500. [Buy](https://www.banggood.com/Eachine-VR006-VR-006-3-Inch-500300-Display-5_8G-40CH-Mini-FPV-Goggles-Build-in-3_7V-500mAh-Battery-p-1158147.html?rmmds=search&cur_warehouse=CN). Один приемник, две антенны. DVR, наверное, нет.
+ - VR007, 3000. [Buy](https://www.banggood.com/Eachine-VR-007-Pro-VR007-5_8G-40CH-HD-FPV-Goggles-4_3-Inch-Video-Headset-With-3_7V-1600mAh-Battery-p-1134154.html?rmmds=search). Нет DVR, нет Diversity.
+ - VR011. На бангуде не нашел, обзоры есть. По плате и софту похож на VR D2.
  - Eachine VR D2
- - VR011
- - Eachine 600
- - Eachine 800
- - Eachine 800D
+ - Eachine VR D3
+ - Eachine EV600
+ - Eachine EV800, 4000. [Buy](https://www.banggood.com/ru/Eachine-EV800-5-Inches-800x480-FPV-Goggles-5_8G-40CH-Raceband-Auto-Searching-Build-In-Battery-p-1053357.html?rmmds=search&cur_warehouse=RU). Нет DVR, нет Diversity.
+ - Eachine EV800D, 6300. [Buy](https://www.banggood.com/ru/Eachine-EV800D-5_8G-40CH-Diversity-FPV-Goggles-5-Inch-800480-Video-Headset-HD-DVR-Build-in-Battery-p-1180354.html?rmmds=search&cur_warehouse=RU). Есть DVR, есть Diversity.
  
-##### Topsky Prime 1S 5000 (це очки, блеать!)
-- [Buy](https://www.banggood.com/TOPSKY-Prime1S-5_8G-48CH-2_4-Inch-FPV-Goggles-Diversity-Receiver-Built-In-Battery-DVR-For-RC-Drone-p-1367999.html?utm_campaign=t0016_1024569_1360782&utm_content=10344&p=PZ310310245692014125&_branch_match_id=525222877262741484&cur_warehouse=CN)
-- [Обзор AnikFPV](https://www.youtube.com/watch?v=u9N6uq93EV4)
-
-Плюсы:
- - Хорошая картинка
- - Настройка расстояния, диоптрий
- - DVR
- - Diversity
- - Видеовход
-Минусы:
- - сырой, куча глюков
- - приемники так себе 
+##### Eachine VR D2 Pro
+ - [Buy](https://www.banggood.com/Eachine-VR-D2-Pro-Upgraded-5-Inches-800480-40CH-5_8G-Diversity-FPV-Goggles-with-DVR-Lens-Adjustable-p-1137808.html?rmmds=search&cur_warehouse=CN) (и приемник в подарок!)
+ - [Обзор AnikFPV](https://www.youtube.com/watch?v=xAJU2hFcz0U)
+ - DVR, Diversity
  
- Вроде бы все так красиво и перспективно, но сырой. Аник говорит, что VR D3 лучше, чем это
+Говорит, что нормальный шлем. Не знаю, чем он лучше того VR D3. Ну, более удобное меню, управление, как-то
+по-солиднее сделано.
+  
+  
+[EV800D vs VR D2 Pro vs VR-007 Pro](https://www.youtube.com/watch?v=UCuGcg6GjII). Обзор тупой, ни о чем.
 
 ##### Eachine VR D3, 3900
  - [Buy](https://www.banggood.com/Eachine-VR-D3-FPV-Goggles-3-Inch-5_8G-40CH-Diversity-Object-Distance-Adjustable-DVR-Built-in-Battery-p-1346326.html?utm_campaign=t0016_1024569_1360782&utm_content=10344&p=PZ310310245692014125&_branch_match_id=525222877262741484&cur_warehouse=CN)
@@ -287,34 +282,13 @@ Wraith32 Metal V2 https://goo.gl/7VXy31
  - странный разъем антенн 
 
 Аник говорит, что за 50$ конкурентов нет. Говорит, что лучше, чем очки EV100. Лучший бюджетный вариант.
- 
-##### Eachine VR007, 3000
- - [Buy](https://www.banggood.com/Eachine-VR-007-Pro-VR007-5_8G-40CH-HD-FPV-Goggles-4_3-Inch-Video-Headset-With-3_7V-1600mAh-Battery-p-1134154.html?rmmds=search)
- - Нет DVR, нет диверсити
-
-##### Eachine EV800 4000
- - [Buy](https://www.banggood.com/ru/Eachine-EV800-5-Inches-800x480-FPV-Goggles-5_8G-40CH-Raceband-Auto-Searching-Build-In-Battery-p-1053357.html?rmmds=search&cur_warehouse=RU)
- - 1 антенна, нет диверсити
-
-##### Eachine EV800D 6300
- - [Buy](https://www.banggood.com/ru/Eachine-EV800D-5_8G-40CH-Diversity-FPV-Goggles-5-Inch-800480-Video-Headset-HD-DVR-Build-in-Battery-p-1180354.html?rmmds=search&cur_warehouse=RU(
- - Есть диверсити
-
-##### Eachine VR D2 Pro
- - [Buy](https://www.banggood.com/Eachine-VR-D2-Pro-Upgraded-5-Inches-800480-40CH-5_8G-Diversity-FPV-Goggles-with-DVR-Lens-Adjustable-p-1137808.html?rmmds=search&cur_warehouse=CN) (и приемник в подарок!)
- - [Обзор AnikFPV](https://www.youtube.com/watch?v=xAJU2hFcz0U)
- - DVR, Diversity
- 
-Говорит, что нормальный шлем. Не знаю, чем он лучше того VR D3. Ну, более удобное меню, управление, как-то
-по-солиднее сделано.
-  
-  
-[EV800D vs VR D2 Pro vs VR-007 Pro](https://www.youtube.com/watch?v=UCuGcg6GjII). Обзор тупой, ни о чем.
 
 #### Очки
 ##### Eachine EV200, 18к, сука 
 - [Buy](https://www.banggood.com/Eachine-EV200D-1280720-5_8G-72CH-True-Diversity-FPV-Goggles-HD-Port-in-2D3D-Built-in-DVR-p-1220010.html?utm_campaign=t0016_1024569_1360782&utm_content=10344&p=PZ310310245692014125&_branch_match_id=525222877262741484&ID=224&cur_warehouse=CN)
 - [Обзор AnikFPV](https://www.youtube.com/watch?v=PBtrjfQufIw)
+
+Я даже рассматривать не буду.
 
 ##### Eachine EV100, 7к
 - [Buy](https://www.banggood.com/Eachine-EV100-720540-5_8G-72CH-FPV-Goggles-With-Dual-Antennas-Fan-7_4V-1000mAh-Battery-p-1182469.html?rmmds=search&ID=233&cur_warehouse=RU)
@@ -333,8 +307,27 @@ Wraith32 Metal V2 https://goo.gl/7VXy31
 - нет DVR (также можно подключиить внешний DVR, например тото же eachine'овский)
 - маленький размер картинки
 
-Крч, нихрена не понятно, одни (например, AninkFPV) их очень хвалят, другие анонимы очень ругают. Вроде "смотрибельно", вопрос в том,
+Очень популярный агрегат, который в день старта продаж раскупили как горячие пирожки. Но и очень спорный.
+Крч, нихрена не понятно, одни (например, AninkFPV) их очень хвалят, другие анонимы очень ругают. Вроде "смотрибельно",
+вопрос в том,
 как с дальностью. RC School Models говорит, что под пиво сойдет. Но говорит, что шлем (тот же иачайн) лучше. Зайцев ФПВ
-тоже говорит, что сойдет за 100 баксов, но за 150 уже не айс.
+тоже говорит, что сойдет за 100 баксов, но за 150 уже не айс. Короче, нужно найти baseline как летается вообще с одной антеной и труЪ diversity.
 
-Короче, нужно найти baseline как летается вообще с одной антеной и труЪ diversity. 
+В общем, я думаю, что  шлем, c Diversity, с DVR лучше. И дешевле. Тут плюс - очки. Но с мелким обзором вообще не ясно. 
+
+##### Topsky Prime 1S, 5000 (це очки, блеать!)
+- [Buy](https://www.banggood.com/TOPSKY-Prime1S-5_8G-48CH-2_4-Inch-FPV-Goggles-Diversity-Receiver-Built-In-Battery-DVR-For-RC-Drone-p-1367999.html?utm_campaign=t0016_1024569_1360782&utm_content=10344&p=PZ310310245692014125&_branch_match_id=525222877262741484&cur_warehouse=CN)
+- [Обзор AnikFPV](https://www.youtube.com/watch?v=u9N6uq93EV4)
+
+Плюсы:
+ - Хорошая картинка
+ - Настройка расстояния, диоптрий
+ - DVR
+ - Diversity
+ - Видеовход
+Минусы:
+ - сырой, куча глюков
+ - приемники так себе 
+ 
+ Вроде бы все так красиво и перспективно, но сырой. Аник говорит, что Eachine VR D3 лучше, чем это
+
